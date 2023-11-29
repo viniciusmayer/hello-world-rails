@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hello-world-rails.iml" filepath="$PROJECT_DIR$/.idea/hello-world-rails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-world-rails-mongodb/.idea/hello-world-rails-mongodb.iml" filepath="$PROJECT_DIR$/../hello-world-rails-mongodb/.idea/hello-world-rails-mongodb.iml" />
     </modules>
   </component>
 </project>
